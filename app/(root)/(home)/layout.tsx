@@ -6,7 +6,7 @@ import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
   title: 'Samyugna_Yash',
-  description: 'A workspace for your team, powered by Stream Chat and Clerk.',
+  description: 'A workspace made for betterment and coordination of Team, powered by Stream Chat and Clerk.',
 };
 
 const RootLayout = ({ children }: Readonly<{children: ReactNode}>) => {
